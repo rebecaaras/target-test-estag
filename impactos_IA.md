@@ -20,4 +20,4 @@ Não é tão simples substituir trabalhos manuais e que exigem muita atenção e
 
 Acho difícil saber se o amplo uso de IAs, especialmente do chatGPT será melhor do que pior nessa área. Por um lado "conversar" com um GPT, compreendendo suas limitações, pode acelerar muito a apreensão de temas complexos. Isso deve ser uma grande ajuda a jovens interessados em estudar e que tenham limitações financeiras para obter acesso à educação e conhecer temas que não seriam tão acessíveis de outro modo.
 
-Por outro lado o GPT também facilita fraudes em provas e tarefas de casa. Os professores provavelmente serão capazes de detectá-las, mas será ainda mais difícil despertar o interesse de alunos pelo estudo num cenário em que podem passar por praticamente todo o ensino fundamental e médio sem usar dois neurônios.
+Por outro lado o GPT também facilita fraudes em provas e tarefas de casa. Os professores provavelmente serão capazes de detectá-las, mas será ainda mais difícil despertar o interesse de alunos pelo estudo num cenário em que podem passar por praticamente todo o ensino fundamental e médio sem fazer o esforço necessário para o aprendizado.
