@@ -1,6 +1,6 @@
 ## Teste técnico para vaga de estágio na Target (SET/2024)
 
-Descrição completa do teste: [teste_tecnico.md](teste_tecnico.md);
+Descrição completa do teste: [teste_tecnico.md](teste_tecnico/descricao-teste.md);
 
 ### Instalação
 

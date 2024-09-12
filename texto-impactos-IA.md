@@ -1,3 +1,5 @@
+### Escreva um texto sobre os impactos da Inteligência Artificial na atualidade.
+
 Inteligência artificial é um termo amplo e um tanto confuso atualmente, talvez até assustador. Vou considerá-las no texto abaixo como *ferramentas*.
 
 As IAs que temos atualmente são, grosso modo, modelos matemáticos capazes de gerar resultados, que podem ser classificações ou previsões. No caso do mais famoso, o chat GPT, ele prevê com base em um treinamento prévio o próximo token mais provável e assim é capaz de gerar uma resposta logicamente plausível ao prompt do usuário. Isso é realmente incrível, mas é uma tecnologia com limitações. 
