@@ -6,13 +6,20 @@ Descrição completa do teste: [teste_tecnico.md](teste_tecnico.md);
 
 Para inicializar o projeto e instalar as dependências executar:
 
-`git clone https://github.com/rebecaaras/target-teste.git`
+    git clone https://github.com/rebecaaras/target-teste.git
+    cd target-estagio
+    npm install
 
-`cd target-estagio`
+### Execução
 
-`npm install`
+Para executar as questões de código com o node pode-se executar:
 
-### Informações do projeto
+    node teste_tecnico/q1-fibonacci.js
+
+    node teste_tecnico/q2-string.js
+
+
+### Informações do projeto 
 
 - Linguagem: Java Script;
 
