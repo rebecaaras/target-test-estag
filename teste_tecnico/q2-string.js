@@ -13,9 +13,9 @@ function containsLetterA(word){
 
 function displayResult(n, word){
     if (n > 0){
-        console.log(`A letra 'a' aparece ${n} vez(es) na palavra ${word}.`)
+        console.log(`A letra 'a' aparece ${n} vez(es) na string '${word}'.`)
     } else {
-        console.log(`A letra a não aparece na string ${word}.`)
+        console.log(`A letra a não aparece na string '${word}'.`)
     }
 }
 
